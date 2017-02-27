@@ -22,3 +22,10 @@ Spark 适用场景
 3. 基于实时数据流的数据处理（Streaming Data Processing），通常在数百毫秒到数秒之间
 
 目前对以上三种场景需求都有比较成熟的处理框架，第一种情况可以用Hadoop的MapReduce来进行批量海量数据处理，第二种情况可以Impala进行交互式查询，对于第三中情况可以用Storm分布式处理框架处理实时流式数据。以上三者都是比较独立，各自一套维护成本比较高，而Spark的出现能够一站式平台满意以上需求。
+
+## 技术资料
+
+### 技术站点
+
+- [Spark官网](http://spark.apache.org/) 官网必不可少
+- [Spark官方文档 - 中文翻译](http://www.cnblogs.com/BYRans/p/5292763.html) 如果英语啃起来吃力的话，不妨可以对照翻译学习

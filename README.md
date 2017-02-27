@@ -27,5 +27,6 @@ Spark 适用场景
 
 ### 技术站点
 
+- [Python语法学习](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000) 基础知识学习，廖雪峰大神的Python教程 良心推荐
 - [Spark官网](http://spark.apache.org/) 官网必不可少
 - [Spark官方文档 - 中文翻译](http://www.cnblogs.com/BYRans/p/5292763.html) 如果英语啃起来吃力的话，不妨可以对照翻译学习

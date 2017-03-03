@@ -38,6 +38,7 @@ Spark 适用场景
 ### Spark core
 - [Spark官网](http://spark.apache.org/) 官网必不可少
 - [Spark官方文档 - 中文翻译](http://www.cnblogs.com/BYRans/p/5292763.html) 如果英语啃起来吃力的话，不妨可以对照翻译学习
+
 ### Spark Streaming
 
 ### Spark SQL

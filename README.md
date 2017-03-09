@@ -1,3 +1,4 @@
+[![Travis](https://img.shields.io/badge/sherryriver-%E6%9C%A8%E6%9C%A8%E4%B8%89%E5%8F%AF-brightgreen.svg)]()
 # 前言
 感兴趣大数据相关技术特别是Spark，想以此作为知识储备。  
 之前玩爬虫时学习Python基础，所以自然选用了Python作为开发语言学习（学习资源不限于Python语言）
